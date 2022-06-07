@@ -1,0 +1,21 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+.test-runner {
+  max-width: 400px;
+  width: 100%;
+  background-color: grey;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  padding: 10px;
+}
+code {
+  word-wrap: break-word;
+}
+
+#app {
+  display: flex;
+  flex-flow: wrap;
+}
